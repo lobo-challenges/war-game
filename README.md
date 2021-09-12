@@ -1,3 +1,11 @@
+# how to run
+```
+git clone https://github.com/lobo-challenges/war-game.git
+cd war-game
+npm i && npm run test && npm run start
+
+```
+
 # war-game
 card problem focused on object oriented programming design
 
